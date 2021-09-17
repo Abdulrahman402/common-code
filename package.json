@@ -1,0 +1,19 @@
+{
+  "name": "code-storage",
+  "version": "1.0.0",
+  "description": "This package was made to make my code reusable",
+  "main": "index.js",
+  "scripts": {},
+  "author": "abdulrahman00",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "joi": "^17.4.2",
+    "mongoose": "^6.0.6",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "winston": "^3.3.3"
+  }
+}
